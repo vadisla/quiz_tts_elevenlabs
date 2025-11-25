@@ -1,0 +1,6 @@
+elevenlabs==2.24.0
+python-dotenv
+requests
+num2words
+
+
